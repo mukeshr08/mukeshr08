@@ -88,7 +88,7 @@
 </div>
 <div align="center">
 
-  [![GitHub Streak](https://github-readme-streak-stats-jet-one.vercel.app?user=EmmanuellDev&theme=tokyonight)](https://git.io/streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats-jet-one.vercel.app?user=mukeshhr08&theme=tokyonight)](https://git.io/streak-stats)
 
 </div>
 
